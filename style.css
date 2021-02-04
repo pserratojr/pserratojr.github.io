@@ -1,4 +1,5 @@
-/* Color Theme Swatches in Hex 
+/*
+Color Theme Swatches in Hex 
 .Fashion-1-hex { color: #D9A796; }
 .Fashion-2-hex { color: #A62508; }
 .Fashion-3-hex { color: #D9CECC; }
@@ -14,10 +15,14 @@ html {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
+  }
 
-header {
-  height: 15rem;
+  body {
+    background-color: #D9CECC;
+  }
+
+  header {
+  height: 10rem;
   padding: .50rem;
   width: 100%;
   background:#A62508;
@@ -36,8 +41,18 @@ p {
   width: 80%;
 }
 
+span {
+  font-style: italic;
+}
+.div_button{
+  height: 10rem;
+  width: 100%;
+  margin: 2rem 0rem;
+  background-color: #F26052;
+}
+
 button {
-  margin: 10rem;
+  margin-top: 1.5rem;
   padding: 2rem 4rem;
   background: #A62508;
   border: .05rem solid #D9CECC;
@@ -48,12 +63,13 @@ button {
 }
 
 footer {
-  font-size: 3rem;
-  height: 15rem;
-  padding: .50rem;
+  height: 10rem;
+  margin-bottom: 0px; 
+  position: absolute;
+  bottom: 0;
   width: 100%;
   background:#590902;
-}
+} /* */
 
 .footer-text {
   font-size: 3rem;
