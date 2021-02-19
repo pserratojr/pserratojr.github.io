@@ -523,7 +523,7 @@ a[href^=tel] {
 }
 
 .btn-primary {
-  background: #ffb600;
+  background: #C41230;
 }
 
 .btn-dark {
@@ -669,7 +669,7 @@ ul.top-info li p.info-text {
 
 .header-one,
 .header-one .site-navigation {
-  background: #23282d;
+  background: #13284c;
 }
 
 .header-one .navbar-collapse {
@@ -2331,7 +2331,7 @@ img.testimonial-thumb {
 /* Subscribe area
 ================================================== */
 .subscribe {
-  background: #ffb600;
+  background: #C41230;
   padding: 0;
 }
 
@@ -2440,7 +2440,7 @@ img.testimonial-thumb {
 ================================================== */
 /*- Footer common */
 .footer {
-  background-color: #0d0d0d;
+  background-color: #13284c;
   color: #999;
 }
 
@@ -2528,8 +2528,8 @@ img.testimonial-thumb {
 
 /*-- Copyright --*/
 .copyright {
-  background: #ffb600;
-  color: #111;
+  background: #C41230;
+  color: #ffffff;
   padding: 25px 0;
   position: relative;
   z-index: 1;
